@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connect three</string>
+    <string name="todo1">TODO</string>
+    <string name="button">Button</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
